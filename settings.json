@@ -1,0 +1,33 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.jsxSingleQuote": true,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "beforeWhitespace",
+    "editor.mouseWheelZoom": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "trailing-spaces.trimOnSave": true,
+    "scss.lint.duplicateProperties": "warning",
+    "scss.lint.hexColorLength": "warning",
+    "scss.lint.unknownVendorSpecificProperties": "warning",
+    "scss.lint.zeroUnits": "warning",
+    "editor.minimap.enabled": true,
+    "npm.enableScriptExplorer": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "window.zoomLevel": 0,
+    "editor.autoIndent": false,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.emptySelectionClipboard": false,
+    "editor.wrappingIndent": "indent",
+    "editor.wordWrap": "on",
+    "css.lint.duplicateProperties": "warning",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "diffEditor.renderSideBySide": true,
+    "editor.hover.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.autoGuessEncoding": true
+}
