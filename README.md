@@ -11,8 +11,8 @@
 # VSCodeの使い方
 
 * マルチカーソルの練習
-  * 設定が引き継がれていればctrl + クリックで複数カーソルが出ます。
- 変更する場合は、メニュー ― 選択 ― マルチカーソルで、Alt + クリックに切り替える。
+  * 設定が引き継がれていればctrl + クリックで複数カーソルが出ます。  
+  変更する場合は、メニュー ― 選択 ― マルチカーソルで、Alt + クリックに切り替える。
   * [VSCodeのマルチカーソル練習帳 | @TomK](https://qiita.com/TomK/items/3b1f5be07d708d7bd6c5)
   * [マルチカーソルを使わないVSCodeはただのVSCodeだ！〜解説編〜 | memo_md](http://mugi1.hateblo.jp/entry/2018/12/11/215808)
   * [VS Codeでcommand+D(⌘+D)で文字選択しすぎてしまったとき戻る方法 | ひと夏の技術](https://tech-1natsu.hatenablog.com/entry/2018/11/18/123934)
