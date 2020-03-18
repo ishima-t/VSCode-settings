@@ -3,8 +3,9 @@
 * まずはインストールしてみる。
   * https://qiita.com/Shi-nakaya/items/c43fb6c1e638d51bf1c8
 * 設定をそのまま引き継ぐ。
+  * 右上にある緑色のClone or downloadからzipファイルをダウンロードする。
   * https://pg.4696.info/other/vscode-setting.html
-  * 拡張機能のESLntとjshintは無効にしていました。  
+  * 拡張機能のESiLntとjshintは無効にしていました。  
   不要な拡張機能はアンインストールしてください。
   
 # VSCodeの使い方
