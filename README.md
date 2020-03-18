@@ -1,4 +1,4 @@
-# 2020年3月現在の私のVSCodeの設定
+# 2020年3月現在、私のVSCodeの設定引き継ぎ
 
 * まずはインストールしてみる。
   * [VScodeのインストール手順@Windows10 | @Shi-nakaya](https://qiita.com/Shi-nakaya/items/c43fb6c1e638d51bf1c8)
