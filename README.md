@@ -18,9 +18,9 @@
   * [VS Codeでcommand+D(⌘+D)で文字選択しすぎてしまったとき戻る方法 | ひと夏の技術](https://tech-1natsu.hatenablog.com/entry/2018/11/18/123934)
 * 自動リロードで編集する
   * [Live Server | Visual Studio Marketplace](https://translate.google.com/translate?source=gtx&sl=auto&tl=ja&u=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dritwickdey.LiveServer)
-  * Live ServerはVSCodeのワークスペースをルートフォルダにして、ブラウザ起動します。
-  ワークスペースは左サイドのエクスプローラーにディレクトリを表示します。
-  再びファイルを編集する機会がある場合は、ワークスペースを保存すると便利です。
+  * Live ServerはVSCodeのワークスペースをルートフォルダにして、ブラウザ起動します。  
+  ワークスペースは左サイドのエクスプローラーにディレクトリを表示します。  
+  再びファイルを編集する機会がある場合は、ワークスペースを保存すると便利です。  
   * [【VisualStudioCode】ワークスペースとは？ | 複業エンジニアのブログ](https://kukka.me/vsc-workspace/)
 * VSCodeでマージする
   * [WinMergeの代わりにVisual Studio Codeを使う | kuluna.class](https://kuluna.github.io/blog/post/20190323/)
