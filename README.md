@@ -1,6 +1,6 @@
 # VSCodeの設定引き継ぎ
 
-* まずはインストールしてみる。
+* インストールしてみる。
   * [VScodeのインストール手順@Windows10 | @Shi-nakaya](https://qiita.com/Shi-nakaya/items/c43fb6c1e638d51bf1c8)
 * 設定を引き継ぐ。
   * [VisualStudioCode(VSCode)の設定引き継ぎ | pg-info](https://pg.4696.info/other/vscode-setting.html)
