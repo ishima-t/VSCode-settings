@@ -1,12 +1,10 @@
-# 2020年3月現在、私のVSCodeの設定引き継ぎ
+# VSCodeの設定引き継ぎ
 
 * まずはインストールしてみる。
   * [VScodeのインストール手順@Windows10 | @Shi-nakaya](https://qiita.com/Shi-nakaya/items/c43fb6c1e638d51bf1c8)
-* 設定をそのまま引き継ぐ。
-  * 右上にある緑色のClone or downloadからzipファイルをダウンロードする。
+* 設定を引き継ぐ。
   * [VisualStudioCode(VSCode)の設定引き継ぎ | pg-info](https://pg.4696.info/other/vscode-setting.html)
-  * 拡張機能のESiLntとjshintは無効にしていました。
-  不要な拡張機能はアンインストールしてください。
+
 
 # VSCodeの使い方
 
